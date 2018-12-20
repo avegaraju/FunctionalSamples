@@ -1,0 +1,8 @@
+D:\Ashish\SampleCode\FSharp\FunctionPurity\FunctionPuritySamples\bin\Debug\netcoreapp2.1\FunctionPuritySamples.deps.json
+D:\Ashish\SampleCode\FSharp\FunctionPurity\FunctionPuritySamples\bin\Debug\netcoreapp2.1\FunctionPuritySamples.runtimeconfig.json
+D:\Ashish\SampleCode\FSharp\FunctionPurity\FunctionPuritySamples\bin\Debug\netcoreapp2.1\FunctionPuritySamples.runtimeconfig.dev.json
+D:\Ashish\SampleCode\FSharp\FunctionPurity\FunctionPuritySamples\bin\Debug\netcoreapp2.1\FunctionPuritySamples.dll
+D:\Ashish\SampleCode\FSharp\FunctionPurity\FunctionPuritySamples\obj\Debug\netcoreapp2.1\FunctionPuritySamples.fsprojAssemblyReference.cache
+D:\Ashish\SampleCode\FSharp\FunctionPurity\FunctionPuritySamples\obj\Debug\netcoreapp2.1\FunctionPuritySamples.fsproj.CoreCompileInputs.cache
+D:\Ashish\SampleCode\FSharp\FunctionPurity\FunctionPuritySamples\obj\Debug\netcoreapp2.1\FunctionPuritySamples.AssemblyInfoInputs.cache
+D:\Ashish\SampleCode\FSharp\FunctionPurity\FunctionPuritySamples\obj\Debug\netcoreapp2.1\FunctionPuritySamples.AssemblyInfo.fs
